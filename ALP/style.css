@@ -1,0 +1,37 @@
+@font-face {
+    font-family: "ArchivoBlack"; 
+    /* Gunakan ./ untuk menandakan file ada di folder yang sama */
+    src: url("./ArchivoBlack-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Boldonse"; 
+    /* Gunakan ./ untuk menandakan file ada di folder yang sama */
+    src: url("Boldonse-Regular.ttf") format("truetype");
+}
+
+@media (min-width: 1024px) {
+    .navContainer {
+        width: 80%;
+        padding-right: 110px; /* Geser yang kamu mau tadi */
+    }
+}
+
+@view-transition {
+    navigation:auto;
+}
+
+body {
+    padding: 15px;
+    border-color: rgb(255, 207, 171);
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+
+h1 {
+    font-family: "Boldonse", sans-serif;
+}
+
+h2 {
+    font-family: "ArchivoBlack", sans-serif;
+}
