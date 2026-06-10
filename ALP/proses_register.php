@@ -32,4 +32,5 @@ if (isset($_POST['submit_register'])) {
     }
 }
 $conn->close();
+exit;
 ?>

@@ -111,9 +111,9 @@
 
         <div class="relative w-full h-full lg:py-10 overflow-hidden">
                 <h2 class="text-1xl md:text-2xl lg:text-5xl text-white text-center">Check out the most Liked</h2>
-                <a href="galeri.html">
+            
                     <h4 class="text-sm text-white text-center">Click to find out more ></h4>
-                </a>
+                
         </div>
 
 
@@ -142,161 +142,12 @@
         }
         ?>
 
-
-        <div class="overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1QgKMd5UIYfqgxZi35PdvEhWUUvML6tYz" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
         </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1vwdlyuU1J5veJDOvzdI_Y7lfis8K_hRR" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1OdoWqLi64fNEpgz1AF4TJGLGvgeW1SAl" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/15FGTaeau9PwbxL_67uHMs8_k6p6nglYi" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1X7Xhv9jNvw_1T6ea1uiqGr6gpF7y_JIH" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1Lhh-FwL1HGmYuJxrUKS6BKdy1MLJyhrE" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1XA4mMwtHk5z3948sXtgydjbD_W9m8Khy" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1alY4dqTx-EvqD_1bV9asLwKDV9-mwk49" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1ye5PoixESwxuEQbehR7DWx2F6E4Omn0P" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1aZ3IMhnzcGLlo-qqxvrs-Q35e2_t5DcB" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1hVo_LZReWcI12OmOeVRAUt07ubpq_IMi" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1RrcTphHC30zm1VLnfnyc04mXD0FEd7fh" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1H7uw-2p8xk3NqhQBWq9iEXGgfIRKEOif" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/14dWu3QYheepkDXvKtbjea5FN67Spz8sL" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1eX7-FQtkynveYxVoqCZx14qSxmvra7sN" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1KcKOn5ERUSumfb1stkr56jHT6JjdIf3n" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-         <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1exdsgAFc7P902EHOwkR7FrYJETjQ14Or" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-         <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1DHurBvmVHer0s7iW7_UIy4uWSxD0bEA3" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-         <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1LFBGWzQas4yksnP755bQmDgVoZIrHiLS" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-         <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1ZfJ8j4F8GYSn1h6GxIZgnP2thX8F2VR9" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/18Yq1g0ikpXMOIm0b02V1zbJyX9jeJ1a_" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1TtmWvvubzH357l2zOXI404JuhsKtvpG1" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-        
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1rfMxeB82Q3jCNCREduiheos55T6XiJq1" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1rQi7rm1Udd1tAjN5m38PiU9ySb3JSRef" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1pkxKWQlTaQYH2uWvJOpnjW_0RkK6XdSH" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1lf2u-OQ3w-Ec8cO6131vdh6XnyDUMsvn" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1jhNieyAGtt4iLtcyUngSAjSU1B8-Rahr" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1fBE58FNE6AE5z4DNV5mDm2EZMt-NeypJ" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1b3VjgiNHiJz8E5xNbCDWia_muM7S90lL" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1_kslm9QGcWKsPx3GOK2Qq3vpkI2_1J0_" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1PoyyMXIRueZLhyvBjxEkgl0DRVdrXHd5" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1PO95HI9wzeOBm0CaLEsjj96kqKQXzcBR" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1LJgjzHb4T3EVfNj99bhtZyRyP0BxYnNm" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1G30YZxykkc9f8YtN8C20zTSZNkMFOIoa" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/1FPoMfF1jRzbvVnu_gVdLy5wDR1Npwp6b" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-        <div class=" overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
-            <img src="https://lh3.googleusercontent.com/d/14sZKyeC2x-XNSmFgFfsn46-KSFXh_8Ww" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
-        </div>
-
-            </div>
-
-            <div class="relative pt-50 lg:px-30 lg:pt-120">
-                
-            </div>
 
 <div class="h-2 w-full bg-gradient-to-r from-purple-300 via-green-200 to-blue-300 to-orange-300 shadow-lg"></div>
 
 
-
+<!-- animasi -->
     <script>
         gsap.from("#judul", {
             y: 900,
