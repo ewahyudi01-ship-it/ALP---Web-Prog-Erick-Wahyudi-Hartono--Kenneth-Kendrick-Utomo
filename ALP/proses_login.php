@@ -16,8 +16,10 @@ $result = $conn->query($sql);
 if ($result->num_rows > 0) {
 
     $user = $result->fetch_assoc();
+    //verfy password
     if (password_verify($password, $user['password_user'])) {
-
+        //login ke akun
+        $_SESSION['user_id'] = $user['user_id'];
         $_SESSION['username'] = $user['name'];
         $_SESSION['role'] = $user['role'];
         $_SESSION['email'] = $user['email'];

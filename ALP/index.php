@@ -39,21 +39,20 @@
 
             // JIKA USER ADALAH OWNER
             if (isset($_SESSION['role']) && $_SESSION['role'] === 'owner') {
-                echo '<li class="nav-item rounded-2xl bg-orange-200 text-black p-1 px-3"><a class="nav-link" href="index.php">Profile</a></li>';
+                echo '<li class="nav-item rounded-2xl bg-orange-200 text-black p-1 px-3"><a class="nav-link" href="dashboard.php">Dashboard</a></li>';
             } 
-        } else {
-            echo '<li class="nav-item"><a class="nav-link" href="login.php">Login</a></li>';
-        }
-        
+        } 
         ?>
+
         <li class="nav-item"><a class="nav-link" href="#storePage">Store</a></li>
         <li class="nav-item"><a class="nav-link" href="aboutUs.php">About us</a></li> 
 
         <?php
-        
         if (isset($_SESSION['username'])) {
             //jika user sudah login
             echo '<li class="nav-item rounded-2xl bg-red-500 text-white p-1 px-3 hover:bg-red-600 transition"><a class="nav-link" href="logout.php">Log Out</a></li>';
+        } else {
+            echo '<li class="nav-item"><a class="nav-link" href="login.php">Login</a></li>';
         }
         ?>
     </div>
@@ -119,8 +118,30 @@
 
 
 
-
     <div class="relative flex flex-wrap max-w-fit gap-4">
+
+    <!-- tunjukin semua wallpaper dari database -->
+    <?php
+        include 'connect.php';
+
+        $query = "SELECT * FROM wallpapers";
+        $result = mysqli_query($conn, $query);
+        ?>
+
+        <?php
+        while($row = mysqli_fetch_assoc($result)){
+        ?>
+        <a href="infoWallpaper.php?id=<?php echo $row['wallpaper_id']; ?>">
+            <div class="overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
+
+            <img src="<?php echo $row['file_path']; ?>" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">
+
+            </div>
+        </a>
+        <?php
+        }
+        ?>
+
 
         <div class="overflow-hidden rounded-xl shadow-lg hover:scale-[1.02] transition duration-300">
             <img src="https://lh3.googleusercontent.com/d/1QgKMd5UIYfqgxZi35PdvEhWUUvML6tYz" class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded lg:rounded-2xl">

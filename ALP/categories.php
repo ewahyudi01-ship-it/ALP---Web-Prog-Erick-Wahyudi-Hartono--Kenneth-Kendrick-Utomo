@@ -47,7 +47,7 @@ $result = showCategorizedWallpaper($conn);
     <div id="navBar"
         class="fixed inset-x-0 items-center flex flex-row px-10 py-5 backdrop-blur-md font-bold backdrop-filter justify-between lg:justify-center top-0 gap-7 lg:gap-10 md:gap-3 text-black text-center text-sm md:text-[14px] lg:text-[16px] md:text-xs z-50">
         <li class="nav-item rounded-2xl bg-green-200 p-1 px-3"><a class="nav-link" href="index.php">Main menu</a></li>
-        <li class="nav-item rounded-2xl bg-blue-300 p-1 px-3"><a class="nav-link" href="#storePage">Store</a></li>
+        <li class="nav-item rounded-2xl bg-blue-300 p-1 px-3"><a class="nav-link" href="index.php#storePage">Store</a></li>
         <li class="nav-item rounded-2xl bg-pink-200 p-1 px-3"><a class="nav-link" href="aboutUs.php">About us</a></li>
     </div>
 
@@ -57,7 +57,8 @@ $result = showCategorizedWallpaper($conn);
         while ($row = mysqli_fetch_assoc($result)) {
             ?>
             <div class="rounded-xl">
-                <a href="infoWallpaper.php?id=<?php echo $row['wallpaper_id']; ?>">
+                
+                <a href="infoWallpaper.php?id=<?= $row['wallpaper_id'] ?>&name=<?= $_GET['name'] ?>">
                     <img src="<?php echo $row['file_path']; ?>"
                     class="w-auto h-[100px] md:h-[200px] lg:h-[250px] object-cover rounded hover:scale-[1.02] transition duration-300">
                 </a>

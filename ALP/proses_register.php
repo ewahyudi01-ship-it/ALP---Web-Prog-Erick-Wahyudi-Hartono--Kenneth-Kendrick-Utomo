@@ -23,7 +23,7 @@ if (isset($_POST['submit_register'])) {
     if ($conn->query($sql) === TRUE) {
         echo "<script>
         alert('Akun Anda telah berhasil dibuat. Silakan login.');
-        window.location.href = 'index.php';
+        window.location.href = 'login.php';
         </script>";
 
 
